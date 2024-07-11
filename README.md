@@ -23,7 +23,7 @@ Create a text-based RPG dungeon crawler in C++ where players navigate through di
   
 ### Item Attributes
 
-- Use a `struct` or `class` to define item attributes such as name and effect.
+- Use a `struct` or `class` to define item attributes such as name
 - Implement member functions to display item information.
 
 ### Actions
