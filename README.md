@@ -20,6 +20,11 @@ Create a text-based RPG dungeon crawler in C++ where players navigate through di
 
 - Use a `struct` or `class` to define monster attributes such as name, health, and attack strength.
 - Implement member functions to display and update monster stats.
+  
+### Item Attributes
+
+- Use a `struct` or `class` to define item attributes such as name and effect.
+- Implement member functions to display item information.
 
 ### Actions
 
