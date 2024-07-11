@@ -10,7 +10,6 @@ Create a text-based RPG dungeon crawler in C++ where players navigate through di
 
 - Use a `struct` or `class` to define room attributes such as description, monsters, treasures, and connections to other rooms (North, South, East, West).
 - Implement member functions to display and update room information.
-- You'll find room map and details provided here: 
 
 ### Player Attributes
 
